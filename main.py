@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
 import pandas as pd
+import plotly.express as px
 import main_functions
 
 # nltk.download("punkt")
@@ -83,11 +84,14 @@ if topic != "":
     if st.checkbox("Click here to generate Frequency Distribution"):
         fdist = FreqDist(clean_words)
 
-        fdist_10 = fdist.most_common(10)
+        fdist_10 = pd.DataFrame(fdist.most_common(10))
 
-        st.line_chart(pd.DataFrame(fdist_10))
+        table = pd.DataFrame({"Words": fdist_10[0], "Count": fdist_10[1]})
+        final = px.line(table, x="Words", y="Count", title = "")
+        st.plotly_chart(final)
 
 # DISPLAY WORDCLOUD
+
 
 if topic != "":
     wordcloud = WordCloud().generate(str1)
