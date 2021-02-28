@@ -1,0 +1,1180 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/1e2d6fdc-8632-59aa-a111-56efcee19e20",
+      "url": "https://www.nytimes.com/2021/02/20/us/texas-storm-electric-bills.html",
+      "id": 100000007615891,
+      "asset_id": 100000007615891,
+      "source": "New York Times",
+      "published_date": "2021-02-20",
+      "updated": "2021-02-22 08:43:38",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Power Failures and Blackouts;Electric Light and Power;Prices (Fares, Fees and Rates);Heating;Natural Gas;Abbott, Gregory W (1957- );Texas",
+      "column": null,
+      "byline": "By Giulia McDonnell Nieto del Rio, Nicholas Bogel-Burroughs and Ivan Penn",
+      "type": "Article",
+      "title": "His Lights Stayed on During Texas\u2019 Storm. Now He Owes $16,752.",
+      "abstract": "After a public outcry from people like Scott Willoughby, whose exorbitant electric bill is soon due, Gov. Greg Abbott said lawmakers should ensure Texans \u201cdo not get stuck with skyrocketing energy bills\u201d caused by the storm.",
+      "des_facet": [
+        "Power Failures and Blackouts",
+        "Electric Light and Power",
+        "Prices (Fares, Fees and Rates)",
+        "Heating",
+        "Natural Gas"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Abbott, Gregory W (1957- )"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/859e4ab9-4590-5b8f-a528-82c07b061954",
+      "url": "https://www.nytimes.com/2021/02/24/opinion/covid-icu-nurses-arizona.html",
+      "id": 100000007607062,
+      "asset_id": 100000007607062,
+      "source": "New York Times",
+      "published_date": "2021-02-24",
+      "updated": "2021-02-25 09:16:27",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Nursing and Nurses;Hospitals;Phoenix (Ariz);United States",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Death, Through a Nurse\u2019s Eyes",
+      "abstract": "A short film offering a firsthand perspective of the brutality of the pandemic inside a Covid-19 I.C.U.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "Nursing and Nurses",
+        "Hospitals"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Phoenix (Ariz)",
+        "United States"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/995ff32a-dd00-54c5-a591-b01a1d3afb5d",
+      "url": "https://www.nytimes.com/2021/02/22/us/politics/supreme-court-trump-taxes-financial-records.html",
+      "id": 100000007401742,
+      "asset_id": 100000007401742,
+      "source": "New York Times",
+      "published_date": "2021-02-22",
+      "updated": "2021-02-23 08:45:40",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Tax Returns;United States Politics and Government;Decisions and Verdicts;Federal Taxes (US);Trump, Donald J;Vance, Cyrus R Jr;Supreme Court (US);Mazars USA",
+      "column": null,
+      "byline": "By Adam Liptak, William K. Rashbaum, Ben Protess and Benjamin Weiser",
+      "type": "Article",
+      "title": "Supreme Court Denies Trump\u2019s Final Bid to Block Release of Tax Returns",
+      "abstract": "The former president\u2019s accountants will give New York prosecutors the financial records he has spent years trying to shield.",
+      "des_facet": [
+        "Trump Tax Returns",
+        "United States Politics and Government",
+        "Decisions and Verdicts",
+        "Federal Taxes (US)"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Mazars USA"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Vance, Cyrus R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The case concerned a subpoena to former President Donald J. Trump\u2019s accountants, Mazars USA, by the office of the Manhattan district attorney.",
+          "copyright": "Pete Marovich for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/25/us/politics/00dc-scotus-trump-copy/00dc-scotus-trump-copy-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/25/us/politics/00dc-scotus-trump-copy/00dc-scotus-trump-copy-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/25/us/politics/00dc-scotus-trump-copy/00dc-scotus-trump-copy-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2a4b9cd9-c0e3-5cb6-9b42-657d9d64cfe8",
+      "url": "https://www.nytimes.com/2021/02/19/us/texas-deaths-winter-storm.html",
+      "id": 100000007614536,
+      "asset_id": 100000007614536,
+      "source": "New York Times",
+      "published_date": "2021-02-19",
+      "updated": "2021-02-23 19:36:04",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Power Failures and Blackouts;Deaths (Fatalities);Deaths (Obituaries);Hypothermia;Snow and Snowstorms;Carbon Monoxide;Electric Reliability Council of Texas;Texas",
+      "column": null,
+      "byline": "By Giulia McDonnell Nieto del Rio, Richard Fausset and Johnny Diaz",
+      "type": "Article",
+      "title": "Extreme Cold Killed Texans in Their Bedrooms, Vehicles and Backyards",
+      "abstract": "At least 58 people died in storm-affected areas stretching to Ohio, victims of carbon monoxide poisoning, car crashes, drownings, house fires and hypothermia.",
+      "des_facet": [
+        "Power Failures and Blackouts",
+        "Deaths (Fatalities)",
+        "Deaths (Obituaries)",
+        "Hypothermia",
+        "Snow and Snowstorms",
+        "Carbon Monoxide"
+      ],
+      "org_facet": [
+        "Electric Reliability Council of Texas"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Destruction in Austin, Texas, from the deadly winter storms that knocked out power and water this week.",
+          "copyright": "Tamir Kalifa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/19/us/19texas-victims-promo-1/19texas-victims-promo-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/19/us/19texas-victims-promo-1/merlin_183893619_637c16c9-4346-4d7d-893a-eb14a093465d-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/19/us/19texas-victims-promo-1/merlin_183893619_637c16c9-4346-4d7d-893a-eb14a093465d-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5208c539-c446-53e2-a5c4-b5c3eadb5459",
+      "url": "https://www.nytimes.com/2021/02/23/nyregion/daniel-prude-rochester-police.html",
+      "id": 100000007619563,
+      "asset_id": 100000007619563,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-24 10:00:42",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Police Brutality, Misconduct and Shootings;Black People;Black Lives Matter Movement;Prude, Daniel (d 2020);James, Letitia;Rochester (NY);New York State",
+      "column": null,
+      "byline": "By Sarah Maslin Nir",
+      "type": "Article",
+      "title": "Rochester Officers Will Not Be Charged in Killing of Daniel Prude",
+      "abstract": "Mr. Prude, a Black man who was having an apparent psychotic episode, died after police officers placed a mesh hood over his head and pinned him to the ground.",
+      "des_facet": [
+        "Police Brutality, Misconduct and Shootings",
+        "Black People",
+        "Black Lives Matter Movement"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Prude, Daniel (d 2020)",
+        "James, Letitia"
+      ],
+      "geo_facet": [
+        "Rochester (NY)",
+        "New York State"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters in Rochester on Tuesday night after news broke that no officers would be charged in Daniel Prude\u2019s death.",
+          "copyright": "Libby March for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/23/nyregion/23prudejury25/23prudejury25-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c4506e8-e8c6-5e88-a165-3541e93bea08",
+      "url": "https://www.nytimes.com/2021/02/18/us/politics/ted-cruz-storm-cancun.html",
+      "id": 100000007612071,
+      "asset_id": 100000007612071,
+      "source": "New York Times",
+      "published_date": "2021-02-18",
+      "updated": "2021-02-19 19:21:19",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Travel and Vacations;Power Failures and Blackouts;Cruz, Ted;Cruz, Heidi Nelson;Texas;Cancun (Mexico)",
+      "column": null,
+      "byline": "By Shane Goldmacher and Nicholas Fandos",
+      "type": "Article",
+      "title": "Ted Cruz\u2019s Canc\u00fan Trip: Family Texts Detail His Political Blunder",
+      "abstract": "The Texas senator faced fierce blowback for fleeing his state as a disaster unfolded. Text messages sent by his wife revealed a hastily planned trip away from their \u201cFREEZING\u201d family home.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Travel and Vacations",
+        "Power Failures and Blackouts"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Cruz, Ted",
+        "Cruz, Heidi Nelson"
+      ],
+      "geo_facet": [
+        "Texas",
+        "Cancun (Mexico)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Ted Cruz at the airport in Canc\u00fan on Thursday, as he returned to the United States. \u201cWhat\u2019s happening in Texas is unacceptable,\u201d he told a television crew.",
+          "copyright": "Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/20/us/politics/18cruz/18cruz-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/20/us/politics/18cruz/18cruz-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/20/us/politics/18cruz/18cruz-mediumThreeByTwo440-v5.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/646e41bb-7c6c-5d27-9187-4736f926931e",
+      "url": "https://www.nytimes.com/2021/02/19/us/politics/republicans-stimulus-biden.html",
+      "id": 100000007610036,
+      "asset_id": 100000007610036,
+      "source": "New York Times",
+      "published_date": "2021-02-19",
+      "updated": "2021-02-27 13:25:24",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Law and Legislation;Polls and Public Opinion;Stimulus (Economic);Federal Budget (US);Biden, Joseph R Jr;Republican Party;Democratic Party;House of Representatives;Senate",
+      "column": null,
+      "byline": "By Emily Cochrane and Jim Tankersley",
+      "type": "Article",
+      "title": "Republicans Struggle to Derail Increasingly Popular Stimulus Package",
+      "abstract": "A $1.9 trillion rescue plan polls strongly across the country, including with many Republican voters, despite a scattershot series of attacks from congressional Republicans.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Polls and Public Opinion",
+        "Stimulus (Economic)",
+        "Federal Budget (US)"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party",
+        "House of Representatives",
+        "Senate"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden boarded Air Force One en route to Milwaukee on Tuesday. According to new polling data, Mr. Biden\u2019s stimulus plan has broad support among Americans.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/us/19dc-stimulus/19dc-stimulus-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/us/19dc-stimulus/19dc-stimulus-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/us/19dc-stimulus/19dc-stimulus-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5829a960-5dde-5e6d-9fa1-b0afd8252c45",
+      "url": "https://www.nytimes.com/2021/02/24/us/politics/biden-immigration-trump.html",
+      "id": 100000007623167,
+      "asset_id": 100000007623167,
+      "source": "New York Times",
+      "published_date": "2021-02-24",
+      "updated": "2021-02-25 09:07:40",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Green Cards (US);Immigration and Emigration;Foreign Workers;United States Politics and Government;Coronavirus (2019-nCoV);internal-storyline-no;Biden, Joseph R Jr;Trump, Donald J;Migration Policy Institute;United States",
+      "column": null,
+      "byline": "By Michael D. Shear",
+      "type": "Article",
+      "title": "Biden Revokes Trump\u2019s Pause on Green Cards",
+      "abstract": "Since taking office, President Biden has issued several executive orders and directives aimed at lifting restrictions on immigrants put in place over the past four years.",
+      "des_facet": [
+        "Green Cards (US)",
+        "Immigration and Emigration",
+        "Foreign Workers",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "internal-storyline-no"
+      ],
+      "org_facet": [
+        "Migration Policy Institute"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Green card holders seeking assistance with their citizenship applications in 2018 in New York. In April, as the coronavirus worsened, President Donald J. Trump ordered a \u201cpause\u201d in the issuance of green cards.",
+          "copyright": "John Moore/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/24/lens/24dc-immig-photo/24dc-immig-photo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/24/lens/24dc-immig-photo/24dc-immig-photo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/24/lens/24dc-immig-photo/24dc-immig-photo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/58b3ca1b-a2ec-5206-8ce4-7ba2b89c2bb1",
+      "url": "https://www.nytimes.com/2021/02/19/health/medical-school-residency-doctors.html",
+      "id": 100000007593753,
+      "asset_id": 100000007593753,
+      "source": "New York Times",
+      "published_date": "2021-02-19",
+      "updated": "2021-02-23 11:25:55",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Foreign Students (in US);Medical Schools;Doctors;Hospitals;your-feed-science;your-feed-healthcare;Assn of American Medical Colleges",
+      "column": null,
+      "byline": "By Emma Goldberg",
+      "type": "Article",
+      "title": "\u2018I Am Worth It\u2019: Why Thousands of Doctors in America Can\u2019t Get a Job",
+      "abstract": "Medical schools are producing more graduates, but residency programs haven\u2019t kept up, leaving thousands of young doctors \u201cchronically unmatched\u201d and deep in debt.",
+      "des_facet": [
+        "Foreign Students (in US)",
+        "Medical Schools",
+        "Doctors",
+        "Hospitals",
+        "your-feed-science",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Assn of American Medical Colleges"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Charity Rachelle for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/00VIRUS-UNMATCHED-promo/00VIRUS-UNMATCHED-promo-thumbStandard-v4.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/00VIRUS-UNMATCHED-promo/00VIRUS-UNMATCHED-promo-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/science/00VIRUS-UNMATCHED-promo/00VIRUS-UNMATCHED-promo-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e2cf0817-68e5-52f8-ab3a-010ecc72aeee",
+      "url": "https://www.nytimes.com/2021/02/21/us/coronavirus-deaths-us-half-a-million.html",
+      "id": 100000007596018,
+      "asset_id": 100000007596018,
+      "source": "New York Times",
+      "published_date": "2021-02-21",
+      "updated": "2021-02-22 09:16:58",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);United States",
+      "column": null,
+      "byline": "By Julie Bosman",
+      "type": "Article",
+      "title": "A Ripple Effect of Loss: U.S. Covid Deaths Approach 500,000",
+      "abstract": "Twice as many Americans have died as early worst-case projections.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe knew that when the door opened, it was Larry walking in.\u201d Larry Cummings liked to visit the Side Door Saloon after work on Mondays.",
+          "copyright": "Lyndon French for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/xxvirus-500Kdead/xxvirus-500Kdead-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/xxvirus-500Kdead/xxvirus-500Kdead-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/18/us/xxvirus-500Kdead/xxvirus-500Kdead-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/870a9f85-f3f3-5aee-85f1-12de5d13b42b",
+      "url": "https://www.nytimes.com/2021/02/19/us/beto-orourke-texas.html",
+      "id": 100000007614661,
+      "asset_id": 100000007614661,
+      "source": "New York Times",
+      "published_date": "2021-02-19",
+      "updated": "2021-02-19 19:02:36",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Simon Romero",
+      "type": "Article",
+      "title": "Beto O\u2019Rourke\u2019s response to crisis rekindles speculation about his political plans.",
+      "abstract": "Mr. O\u2019Rourke organized volunteers to make more than 784,000 wellness calls to senior citizens around the state and also took to the airwaves to lambast Senator Ted Cruz.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Beto O\u2019Rourke during his presidential run in 2019.\u00a0\u201cWe are nearing a failed state in Texas,\u201d he said on MSNBC this week. \u201cAnd it has nothing to do with God or natural disasters. It has everything to do with those in positions of public trust who have failed us.\u201d",
+          "copyright": "Eric Thayer for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/us/19storm-briefing-beto2/19storm-briefing-beto2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/us/19storm-briefing-beto2/merlin_162025530_7ac290df-ea2b-4c10-a902-a6d8fa8d1368-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/us/19storm-briefing-beto2/merlin_162025530_7ac290df-ea2b-4c10-a902-a6d8fa8d1368-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/763d29ef-540f-5dc9-834a-6631cf161046",
+      "url": "https://www.nytimes.com/2021/02/23/us/illinois-cash-bail-pritzker.html",
+      "id": 100000007619669,
+      "asset_id": 100000007619669,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-26 23:45:10",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Bail;Law and Legislation;Mental Health and Disorders;Crime and Criminals;Pritzker, J B;Illinois",
+      "column": null,
+      "byline": "By Maria Cramer",
+      "type": "Article",
+      "title": "Illinois Becomes First State to Eliminate Cash Bail",
+      "abstract": "Gov. J.B. Pritzker signed a law that he said would end a system that disproportionately hurts the poor and favors wealthier defendants.",
+      "des_facet": [
+        "Bail",
+        "Law and Legislation",
+        "Mental Health and Disorders",
+        "Crime and Criminals"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Pritzker, J B"
+      ],
+      "geo_facet": [
+        "Illinois"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. J.B. Pritzker of Illinois on Monday signed a bill that he said would transform the state\u2019s legal system and increase accountability measures for police officers.",
+          "copyright": "Ashlee Rezin Garcia/Chicago Sun-Times, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/23xp-bail-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/merlin_184124475_eb3eb2f5-836a-4bc0-8100-520f3c048c6a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/multimedia/23xp-bail/merlin_184124475_eb3eb2f5-836a-4bc0-8100-520f3c048c6a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/516c472c-ffea-5422-bf0d-48ed811d3d8e",
+      "url": "https://www.nytimes.com/2021/02/12/style/modern-love-please-go-shelter-in-another-place.html",
+      "id": 100000007593320,
+      "asset_id": 100000007593320,
+      "source": "New York Times",
+      "published_date": "2021-02-12",
+      "updated": "2021-02-14 10:42:09",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Marriages;Divorce, Separations and Annulments;Love (Emotion);Quarantine (Life and Culture)",
+      "column": null,
+      "byline": "By Michelle White",
+      "type": "Article",
+      "title": "Please Go Shelter in Another Place",
+      "abstract": "During lockdown, a 25-year marriage shakes and resettles.",
+      "des_facet": [
+        "Marriages",
+        "Divorce, Separations and Annulments",
+        "Love (Emotion)",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/14/fashion/14MODERN-VRBO/14MODERN-VRBO-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/14/fashion/14MODERN-VRBO/14MODERN-VRBO-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/14/fashion/14MODERN-VRBO/14MODERN-VRBO-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/76fe7e7a-ac0e-5914-863e-80cdc46ff664",
+      "url": "https://www.nytimes.com/2021/02/19/world/middleeast/erik-prince-libya-embargo.html",
+      "id": 100000007613855,
+      "asset_id": 100000007613855,
+      "source": "New York Times",
+      "published_date": "2021-02-19",
+      "updated": "2021-02-24 15:30:10",
+      "section": "World",
+      "subsection": "Middle East",
+      "nytdsection": "world",
+      "adx_keywords": "Arms Trade;Embargoes and Sanctions;Mercenaries and Private Military Contractors;Politics and Government;United States Politics and Government;Prince, Erik D;Hifter, Khalifa;Trump, Donald J;Frontier Services Group;United Nations;Libya;United Arab Emirates",
+      "column": null,
+      "byline": "By Declan Walsh",
+      "type": "Article",
+      "title": "Erik Prince, Trump Ally, Violated Libya Arms Embargo, U.N. Report Says",
+      "abstract": "Mr. Prince offered to supply weapons, drones and mercenaries to a Libyan militia commander seeking to overthrow the government, according to U.N. investigators.",
+      "des_facet": [
+        "Arms Trade",
+        "Embargoes and Sanctions",
+        "Mercenaries and Private Military Contractors",
+        "Politics and Government",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Frontier Services Group",
+        "United Nations"
+      ],
+      "per_facet": [
+        "Prince, Erik D",
+        "Hifter, Khalifa",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Libya",
+        "United Arab Emirates"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The accusation that Mr. Prince violated the U.N.\u2019s arms embargo on Libya exposes him to possible U.N. sanctions.",
+          "copyright": "Jeenah Moon/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/world/19prince-2/19prince-2-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/world/19prince-2/19prince-2-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/19/world/19prince-2/19prince-2-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c4683571-eb30-5028-a14a-b8631d1542a9",
+      "url": "https://www.nytimes.com/2021/02/22/us/el-chapo-emma-coronel-aispuro.html",
+      "id": 100000007618770,
+      "asset_id": 100000007618770,
+      "source": "New York Times",
+      "published_date": "2021-02-22",
+      "updated": "2021-02-23 11:21:45",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Drug Cartels;Drug Abuse and Traffic;Guzman Loera, Joaquin;Coronel Aispuro, Emma;Sinaloa Cartel;Mexico",
+      "column": null,
+      "byline": "By Alan Feuer and Adam Goldman",
+      "type": "Article",
+      "title": "U.S. Arrests El Chapo\u2019s Wife, Charging Her With Helping to Run Drug Empire",
+      "abstract": "Emma Coronel Aispuro, who had been under investigation for at least two years, was also charged with plotting to break her husband, Mexico\u2019s most notorious drug kingpin, out of prison.",
+      "des_facet": [
+        "Drug Cartels",
+        "Drug Abuse and Traffic"
+      ],
+      "org_facet": [
+        "Sinaloa Cartel"
+      ],
+      "per_facet": [
+        "Guzman Loera, Joaquin",
+        "Coronel Aispuro, Emma"
+      ],
+      "geo_facet": [
+        "Mexico"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Emma Coronel Aispuro leaving federal court in Brooklyn during her husband\u2019s trial in 2019.",
+          "copyright": "Justin Lane/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/us/22dc-justice-promo/22dc-justice-alert-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/us/22dc-justice-promo/merlin_184129044_02a88091-bcf8-40d5-bc97-71bab0fdc946-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/22/us/22dc-justice-promo/merlin_184129044_02a88091-bcf8-40d5-bc97-71bab0fdc946-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9b8f5d2f-1e64-5759-81bb-1af8fd16a496",
+      "url": "https://www.nytimes.com/2021/02/23/opinion/britney-spears-mara-wilson-hollywood.html",
+      "id": 100000007612599,
+      "asset_id": 100000007612599,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-25 23:24:34",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Actors and Actresses;Women and Girls;Children and Childhood;Celebrities;Movies;Spears, Britney;Wilson, Mara (1987- )",
+      "column": null,
+      "byline": "By Mara Wilson",
+      "type": "Article",
+      "title": "The Lies Hollywood Tells About Little Girls",
+      "abstract": "Britney Spears and I learned the same lesson growing up: When you\u2019re young and famous, there is no such thing as control.",
+      "des_facet": [
+        "Actors and Actresses",
+        "Women and Girls",
+        "Children and Childhood",
+        "Celebrities",
+        "Movies"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Spears, Britney",
+        "Wilson, Mara (1987- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The author in the 1993 film &ldquo;Mrs. Doubtfire.&rdquo;",
+          "copyright": "20th Century Fox, via Everett Collection",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/opinion/23Wilson-2/23Wilson-2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8d653e87-9d4d-5e11-9e48-2c4d2ef9edff",
+      "url": "https://www.nytimes.com/2021/02/25/us/politics/biden-syria-airstrike-iran.html",
+      "id": 100000007625162,
+      "asset_id": 100000007625162,
+      "source": "New York Times",
+      "published_date": "2021-02-25",
+      "updated": "2021-02-26 10:57:32",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Defense and Military Forces;United States International Relations;Defense and Military Forces;Biden, Joseph R Jr;Kataib Hezbollah;Syria;Iran;Erbil (Iraq)",
+      "column": null,
+      "byline": "By Helene Cooper and Eric Schmitt",
+      "type": "Article",
+      "title": "U.S. Airstrikes in Syria Target Iran-Backed Militias That Rocketed American Troops in Iraq",
+      "abstract": "President Biden ordered retaliatory strikes against the militias whose attacks in Erbil this month killed one civilian contractor and wounded a U.S. service member.",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "Defense and Military Forces"
+      ],
+      "org_facet": [
+        "Kataib Hezbollah"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Syria",
+        "Iran",
+        "Erbil (Iraq)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The airstrikes authorized by President Biden were meant to punish the perpetrators of the rocket attack but not to escalate hostilities with Iran, the Pentagon said.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/25/lens/25dc-military-syria-photo1/25dc-military-syria-photo1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/25/lens/25dc-military-syria-photo1/merlin_184220784_06e5c0f9-27dd-4c2c-b247-49b7bf9b317c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/25/lens/25dc-military-syria-photo1/merlin_184220784_06e5c0f9-27dd-4c2c-b247-49b7bf9b317c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d6c29105-728e-5c89-b193-78ab13919830",
+      "url": "https://www.nytimes.com/2021/02/23/nyregion/new-jersey-lucia-declerck-covid.html",
+      "id": 100000007618331,
+      "asset_id": 100000007618331,
+      "source": "New York Times",
+      "published_date": "2021-02-23",
+      "updated": "2021-02-26 09:52:51",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Coronavirus (2019-nCoV);Nursing Homes;Vaccination and Immunization;Content Type: Personal Profile;DeClerck, Lucia (1916- );New Jersey",
+      "column": null,
+      "byline": "By Tracey Tully",
+      "type": "Article",
+      "title": "This 105-Year-Old Beat Covid. She Credits Gin-Soaked Raisins.",
+      "abstract": "Lucia DeClerck, the oldest resident of her New Jersey nursing home, tested positive for the virus on her 105th birthday, one day after her second vaccine shot.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Nursing Homes",
+        "Vaccination and Immunization",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "DeClerck, Lucia (1916- )"
+      ],
+      "geo_facet": [
+        "New Jersey"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lucia DeClerck, 105, said her secret to a long life was simple. \u201cPrayer. Prayer. Prayer,\u201d she said. \u201cOne step at a time. No junk food.\u201d",
+          "copyright": "Michael Neiman",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/23/nyregion/23njvirus-olderpatient/23njvirus-olderpatient-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a938fcb3-54b1-50d8-8b4a-9cf9cfae5eb2",
+      "url": "https://www.nytimes.com/2021/02/25/technology/fcc-broadband-low-income-subsidy.html",
+      "id": 100000007625313,
+      "asset_id": 100000007625313,
+      "source": "New York Times",
+      "published_date": "2021-02-25",
+      "updated": "2021-02-27 13:06:19",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Computers and the Internet;Rural Areas;Income Inequality;Federal Aid (US);Coronavirus (2019-nCoV);Telephones and Telecommunications;Poverty;Rosenworcel, Jessica;Federal Communications Commission",
+      "column": null,
+      "byline": "By Cecilia Kang",
+      "type": "Article",
+      "title": "F.C.C. Approves a $50 Monthly High-Speed Internet Subsidy",
+      "abstract": "The money, aimed at low-income households, is part of an effort to bridge the access gap to broadband connectivity amid the pandemic.",
+      "des_facet": [
+        "Computers and the Internet",
+        "Rural Areas",
+        "Income Inequality",
+        "Federal Aid (US)",
+        "Coronavirus (2019-nCoV)",
+        "Telephones and Telecommunications",
+        "Poverty"
+      ],
+      "org_facet": [
+        "Federal Communications Commission"
+      ],
+      "per_facet": [
+        "Rosenworcel, Jessica"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jessica Rosenworcel, the acting chairwoman of the Federal Communications Commission, at a Senate committee hearing this week.",
+          "copyright": "Pool photo by Jonathan Newton/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/03/25/world/25fcc-1/merlin_173874552_6c7ca9cf-0a28-4d11-8d84-a43a3893388a-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/25/world/25fcc-1/merlin_173874552_6c7ca9cf-0a28-4d11-8d84-a43a3893388a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/03/25/world/25fcc-1/merlin_173874552_6c7ca9cf-0a28-4d11-8d84-a43a3893388a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5bc08b21-5a6c-5253-9f87-baf051d7dfbb",
+      "url": "https://www.nytimes.com/2021/02/10/books/patricia-lockwood-no-one-is-talking-about-this.html",
+      "id": 100000007580661,
+      "asset_id": 100000007580661,
+      "source": "New York Times",
+      "published_date": "2021-02-10",
+      "updated": "2021-02-16 18:25:26",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Content Type: Personal Profile;Writing and Writers;Books and Literature;Lockwood, Patricia",
+      "column": null,
+      "byline": "By Joumana Khatib",
+      "type": "Article",
+      "title": "She\u2019s Ready to Discuss Just About Anything",
+      "abstract": "Patricia Lockwood followed up on her memoir \u201cPriestdaddy\u201d with \u201cNo One Is Talking About This,\u201d a novel that explores the chaotic feel of the internet and the pain of personal loss.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Writing and Writers",
+        "Books and Literature"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lockwood, Patricia"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cI was trying to write something that is on the inside of your head that is almost before language,\u201d Patricia Lockwood said of her new book, \u201cNo One Is Talking About This.\u201d",
+          "copyright": "Leslie Ryann McKellar for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/02/12/books/10LOCKWOOD1/merlin_183144909_d09f5fc6-a91e-453c-8aa2-621c0726dd2f-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/12/books/10LOCKWOOD1/merlin_183144909_d09f5fc6-a91e-453c-8aa2-621c0726dd2f-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/02/12/books/10LOCKWOOD1/merlin_183144909_d09f5fc6-a91e-453c-8aa2-621c0726dd2f-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
